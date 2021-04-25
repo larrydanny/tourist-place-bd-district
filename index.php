@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+    <script src = "https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
     <script type="text/javascript" src="custom.js"></script>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -158,6 +160,7 @@
 	style="fill:#fc9272;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
 	d="m 1288.9407,1427.4977 -4.9711,-24.6296 12.4277,-14.7778 9.9423,-17.2407 2.4855,-29.5555 37.2833,-27.0926 -2.4856,-14.7778 -4.971,-27.0925 22.3699,-17.2407 -4.971,-19.7037 -7.4567,-32.0185 0,-17.2407 -17.3989,-24.6296 22.37,-29.5555 -9.9423,-24.6296 -17.3988,-44.3333 4.9711,-7.3888 19.8844,-19.7037 12.4278,0 7.4567,12.3148 4.971,19.7036 4.9712,-17.2407 4.9711,-9.8518 12.4277,4.9259 -7.4566,17.2407 4.9711,17.2407 4.9711,12.3148 4.9712,44.3333 12.4277,17.2407 7.4566,14.7778 -4.971,9.8518 7.4566,7.3889 2.4855,9.8518 -17.3988,12.3149 2.4855,19.7037 2.4856,17.2406 2.4856,12.3148 9.9421,12.3149 -7.4566,39.4073 9.9422,19.7037 19.8845,9.8519 -4.9712,12.3147 7.4567,29.5555 14.9133,14.7778 2.4856,19.7036 4.971,24.6297 -7.4566,4.9259 7.4566,24.6296 4.9712,29.5555 4.9711,24.6297 0,14.7777 4.971,19.7037 4.9712,19.7037 0,22.1666 -12.4278,-4.926 7.4566,27.0926 9.9423,39.4074 7.4566,24.6296 -9.9422,17.2407 -4.9711,-12.3148 -7.4566,-22.1666 -7.4567,-24.6297 -12.4277,-24.6295 2.4855,-7.3889 -4.9711,-19.7037 -9.9422,-34.4814 -9.9423,-9.8519 -24.8554,-17.2407 -32.3122,-7.3888 -22.37,9.8517 -14.9134,-12.3147 -9.9421,-14.7778 7.4566,-19.7037 -2.4856,-19.7037 -12.4277,-24.6295 -14.9133,-22.1667 -7.4567,2.4629 -9.9422,14.7778 7.4566,19.7037 -4.9711,9.8518 -9.9422,-12.3147 -4.9711,-27.0926 z"></path>
     <path style="fill:#fee5d9;fill-opacity:1" d="m 367.10964,1770.2006 c -1.10965,-0.9743 -1.55746,-1.7345 -1.55746,-2.6437 0,-1.6175 0.61086,-1.6143 2.23693,0.012 0.86541,0.8654 1.28794,1.7327 1.28794,2.6436 0,0.7457 -0.0922,1.3557 -0.20497,1.3557 -0.11274,0 -0.90584,-0.6153 -1.76244,-1.3674 l 0,0 z" id="path3159" inkscape:connector-curvature="0"/>
+
     <text font-size="12" id="text634" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="538.22229" y="1459.3802">
       <tspan sodipodi:role="line" id="tspan5041" x="538.22229" y="1459.3802">Bagerhat</tspan>
     </text>
@@ -267,7 +270,7 @@
       <tspan sodipodi:role="line" id="tspan5115" x="277.63495" y="270.1322">Nilphamari</tspan>
     </text>
     <text font-size="12" id="text634-0-0-55" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="389.00626" y="260.60907">
-      <tspan sodipodi:role="line" id="tspan5113" x="389.00626" y="260.60907">Lalmonirhat</tspan>
+      <tspan sodipodi:role="line" class="tspan5113" x="389.00626" y="260.60907" id="lalmonirhatTooltip" title="tooltip">Lalmonirhat</tspan>
     </text>
     <text font-size="12" id="text634-0-0-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="517.44189" y="357.45996">
       <tspan sodipodi:role="line" id="tspan5111" x="517.44189" y="357.45996">Kurigram</tspan>

@@ -163,221 +163,197 @@
     <path style="fill:#fee5d9;fill-opacity:1" d="m 367.10964,1770.2006 c -1.10965,-0.9743 -1.55746,-1.7345 -1.55746,-2.6437 0,-1.6175 0.61086,-1.6143 2.23693,0.012 0.86541,0.8654 1.28794,1.7327 1.28794,2.6436 0,0.7457 -0.0922,1.3557 -0.20497,1.3557 -0.11274,0 -0.90584,-0.6153 -1.76244,-1.3674 l 0,0 z" id="path3159" inkscape:connector-curvature="0"/>
 
     <text font-size="12" id="text634" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="538.22229" y="1459.3802">
-      <tspan sodipodi:role="line" id="tspan5041" x="538.22229" y="1459.3802">Bagerhat</tspan>
+      <tspan sodipodi:role="line" id="tspan5041" x="538.22229" y="1459.3802" class="tooltip" title="tooltip">Bagerhat</tspan>
     </text>
     <text font-size="12" id="text634-7" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="445.08594" y="1515.282">
-      <tspan sodipodi:role="line" id="tspan5063" x="445.08594" y="1515.282">Khulna</tspan>
+      <tspan sodipodi:role="line" id="tspan5063" x="445.08594" y="1515.282" class="tooltip" title="tooltip">Khulna</tspan>
     </text>
     <text font-size="12" id="text634-7-7" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="339.48502" y="1436.3114">
-      <tspan sodipodi:role="line" id="tspan5073">Satkhira</tspan>
+      <tspan sodipodi:role="line" id="tspan5073" class="tooltip" title="tooltip">Satkhira</tspan>
     </text>
     <text font-size="12" id="text634-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="641.69849" y="1397.3561">
-      <tspan sodipodi:role="line" id="tspan4989" x="641.69849" y="1397.3561">Pirojpur</tspan>
+      <tspan sodipodi:role="line" id="tspan4989" x="641.69849" y="1397.3561" class="tooltip" title="tooltip">Pirojpur</tspan>
     </text>
     <text font-size="12" id="text634-0-5" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="708.95068" y="1429.1132">
-      <tspan sodipodi:role="line" id="tspan4985">Jhalokati</tspan>
+      <tspan sodipodi:role="line" id="tspan4985" class="tooltip" title="tooltip">Jhalokati</tspan>
     </text>
     <text font-size="12" id="text634-0-6" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="685.32458" y="1610.5406">
-      <tspan sodipodi:role="line" id="tspan4979">Barguna</tspan>
+      <tspan sodipodi:role="line" id="tspan4979" class="tooltip" title="tooltip">Barguna</tspan>
     </text>
     <text font-size="12" id="text634-0-8" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="766.12299" y="1520.2054">
-      <tspan sodipodi:role="line" id="tspan4987" x="766.12299" y="1520.2054">Patuakhali</tspan>
+      <tspan sodipodi:role="line" id="tspan4987" x="766.12299" y="1520.2054" class="tooltip" title="tooltip">Patuakhali</tspan>
     </text>
     <text font-size="12" id="text634-0-63" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="750.47455" y="1358.9696">
-      <tspan sodipodi:role="line" id="tspan4981">Barisal</tspan>
+      <tspan sodipodi:role="line" id="tspan4981" class="tooltip" title="tooltip">Barisal</tspan>
     </text>
     <text font-size="12" id="text634-0-3" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="884.52521" y="1492.8733">
-      <tspan sodipodi:role="line" id="tspan4983">Bhola</tspan>
+      <tspan sodipodi:role="line" id="tspan4983" class="tooltip" title="tooltip">Bhola</tspan>
     </text>
     <text font-size="12" id="text634-0-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="361.97104" y="1264.4875">
-      <tspan sodipodi:role="line" id="tspan5059">Jessore</tspan>
+      <tspan sodipodi:role="line" id="tspan5059" class="tooltip" title="tooltip">Jessore</tspan>
     </text>
     <text font-size="12" id="text634-0-25" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="496.7789" y="1250.1265">
-      <tspan sodipodi:role="line" id="tspan5071">Narail</tspan>
+      <tspan sodipodi:role="line" id="tspan5071" class="tooltip" title="tooltip">Narail</tspan>
     </text>
     <text font-size="12" id="text634-0-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="594.37921" y="1280.7015">
-      <tspan sodipodi:role="line" id="tspan5019" x="594.37921" y="1280.7015">Gopalganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5019" x="594.37921" y="1280.7015" class="tooltip" title="tooltip">Gopalganj</tspan>
     </text>
     <text font-size="12" id="text634-0-89" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="745.59271" y="1224.1841">
-      <tspan sodipodi:role="line" id="tspan5036" x="745.59271" y="1224.1841">Shariatpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5036" x="745.59271" y="1224.1841" class="tooltip" title="tooltip">Shariatpur</tspan>
     </text>
     <text font-size="12" id="text634-0-9" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="670.96362" y="1243.9572">
-      <tspan sodipodi:role="line" id="tspan5023">Madaripur</tspan>
+      <tspan sodipodi:role="line" id="tspan5023" class="tooltip" title="tooltip">Madaripur</tspan>
     </text>
     <text font-size="12" id="text634-0-98" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="883.3941" y="1321.9537">
-      <tspan sodipodi:role="line" id="tspan5007" x="883.3941" y="1321.9537">Lakshmipur</tspan>
+      <tspan sodipodi:role="line" id="tspan5007" x="883.3941" y="1321.9537" class="tooltip" title="tooltip">Lakshmipur</tspan>
     </text>
     <text font-size="12" id="text634-0-633" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="987.85394" y="1341.7621">
-      <tspan sodipodi:role="line" id="tspan5009" x="987.85394" y="1341.7621">Noakhali</tspan>
+      <tspan sodipodi:role="line" id="tspan5009" x="987.85394" y="1341.7621" class="tooltip" title="tooltip">Noakhali</tspan>
     </text>
     <text font-size="12" id="text634-0-17" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1095.7705" y="1305.7174">
-      <tspan sodipodi:role="line" id="tspan5003">Feni</tspan>
+      <tspan sodipodi:role="line" id="tspan5003" class="tooltip" title="tooltip">Feni</tspan>
     </text>
     <text font-size="12" id="text634-0-892" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1245.278" y="1289.9667">
-      <tspan sodipodi:role="line" id="tspan5005" x="1245.278" y="1289.9667">Khagrachhari</tspan>
+      <tspan sodipodi:role="line" id="tspan5005" x="1245.278" y="1289.9667" class="tooltip" title="tooltip">Khagrachhari</tspan>
     </text>
     <text font-size="12" id="text634-0-38" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1350.562" y="1412.2665">
-      <tspan sodipodi:role="line" id="tspan5011">Rangamati</tspan>
+      <tspan sodipodi:role="line" id="tspan5011" class="tooltip" title="tooltip">Rangamati</tspan>
     </text>
     <text font-size="12" id="text634-0-91" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1236.2045" y="1532.7134">
-      <tspan sodipodi:role="line" id="tspan4997" x="1236.2045" y="1532.7134">Chattogram</tspan>
+      <tspan sodipodi:role="line" id="tspan4997" x="1236.2045" y="1532.7134" class="tooltip" title="tooltip">Chattogram</tspan>
     </text>
     <text font-size="12" id="text634-0-55" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1398.4468" y="1705.0452">
-      <tspan sodipodi:role="line" id="tspan4991" x="1398.4468" y="1705.0452">Bandarban</tspan>
+      <tspan sodipodi:role="line" id="tspan4991" x="1398.4468" y="1705.0452" class="tooltip" title="tooltip">Bandarban</tspan>
     </text>
     <text font-size="12" id="text634-0-27" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1298.3832" y="1842.1693">
-      <tspan sodipodi:role="line" id="tspan5001" x="1298.3832" y="1842.1693">Cox's Bazar</tspan>
+      <tspan sodipodi:role="line" id="tspan5001" x="1298.3832" y="1842.1693" class="tooltip" title="tooltip">Cox's Bazar</tspan>
     </text>
     <text font-size="12" id="text634-0-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="341.63242" y="1125.047">
-      <tspan sodipodi:role="line" id="tspan5061" x="341.63242" y="1125.047">Jhenaidah</tspan>
+      <tspan sodipodi:role="line" id="tspan5061" x="341.63242" y="1125.047" class="tooltip" title="tooltip">Jhenaidah</tspan>
     </text>
     <text font-size="12" id="text634-0-87" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="239.90747" y="1084.2804">
-      <tspan sodipodi:role="line" id="tspan5057" x="239.90747" y="1084.2804">Chuadanga</tspan>
+      <tspan sodipodi:role="line" id="tspan5057" x="239.90747" y="1084.2804" class="tooltip" title="tooltip">Chuadanga</tspan>
     </text>
     <text font-size="12" id="text634-0-26" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="207.24312" y="1027.1752">
-      <tspan sodipodi:role="line" id="tspan5069" x="207.24312" y="1027.1752">Meherpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5069" x="207.24312" y="1027.1752" class="tooltip" title="tooltip">Meherpur</tspan>
     </text>
     <text font-size="12" id="text634-0-985" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="332.32257" y="998.11456">
-      <tspan sodipodi:role="line" id="tspan5065">Kushtia</tspan>
+      <tspan sodipodi:role="line" id="tspan5065" class="tooltip" title="tooltip">Kushtia</tspan>
     </text>
     <text font-size="12" id="text634-0-80" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="488.9035" y="1052.7789">
-      <tspan sodipodi:role="line" id="tspan5034">Rajbari</tspan>
+      <tspan sodipodi:role="line" id="tspan5034" class="tooltip" title="tooltip">Rajbari</tspan>
     </text>
     <text font-size="12" id="text634-0-19" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="450.32852" y="1154.6956">
-      <tspan sodipodi:role="line" id="tspan5067" x="450.32852" y="1154.6956">Magura</tspan>
+      <tspan sodipodi:role="line" id="tspan5067" x="450.32852" y="1154.6956" class="tooltip" title="tooltip">Magura</tspan>
     </text>
     <text font-size="12" id="text634-0-85" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="576.92242" y="1140.7979">
-      <tspan sodipodi:role="line" id="tspan5015">Faridpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5015" class="tooltip" title="tooltip">Faridpur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-5" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="32.515858" y="708.56366">
-      <tspan sodipodi:role="line" id="tspan5099" x="32.515858" y="708.56366">Chapainawabganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5099" x="32.515858" y="708.56366" class="tooltip" title="tooltip">Chapainawabganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-6" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="185.95799" y="783.83618">
-      <tspan sodipodi:role="line" id="tspan5103" x="185.95799" y="783.83618">Rajshahi</tspan>
+      <tspan sodipodi:role="line" id="tspan5103" x="185.95799" y="783.83618" class="tooltip" title="tooltip">Rajshahi</tspan>
     </text>
     <text font-size="12" id="text634-0-0-3" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="215.43948" y="631.84259">
-      <tspan sodipodi:role="line" id="tspan5095" x="215.43948" y="631.84259">Naogaon</tspan>
+      <tspan sodipodi:role="line" id="tspan5095" x="215.43948" y="631.84259" class="tooltip" title="tooltip">Naogaon</tspan>
     </text>
     <text font-size="12" id="text634-0-0-62" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="205.54506" y="360.53885">
-      <tspan sodipodi:role="line" id="tspan5107" x="205.54506" y="360.53885">Dinajpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5107" x="205.54506" y="360.53885" class="tooltip" title="tooltip">Dinajpur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-623" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="73.78669" y="261.81213">
-      <tspan sodipodi:role="line" id="tspan5121" x="73.78669" y="261.81213">Thakurgaon</tspan>
+      <tspan sodipodi:role="line" id="tspan5121" x="73.78669" y="261.81213" class="tooltip" title="tooltip">Thakurgaon</tspan>
     </text>
     <text font-size="12" id="text634-0-0-9" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="156.53574" y="167.05696">
-      <tspan sodipodi:role="line" id="tspan5117" x="156.53574" y="167.05696">Panchagarh</tspan>
+      <tspan sodipodi:role="line" id="tspan5117" x="156.53574" y="167.05696" class="tooltip" title="tooltip">Panchagarh</tspan>
     </text>
     <text font-size="12" id="text634-0-0-63" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="277.63495" y="270.1322">
-      <tspan sodipodi:role="line" id="tspan5115" x="277.63495" y="270.1322">Nilphamari</tspan>
+      <tspan sodipodi:role="line" id="tspan5115" x="277.63495" y="270.1322" class="tooltip" title="tooltip">Nilphamari</tspan>
     </text>
     <text font-size="12" id="text634-0-0-55" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="389.00626" y="260.60907">
       <tspan sodipodi:role="line" id="tspan5113" x="389.00626" y="260.60907" class="tooltip" title="tooltip">Lalmonirhat</tspan>
     </text>
     <text font-size="12" id="text634-0-0-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="517.44189" y="357.45996">
-      <tspan sodipodi:role="line" id="tspan5111" x="517.44189" y="357.45996">Kurigram</tspan>
+      <tspan sodipodi:role="line" id="tspan5111" x="517.44189" y="357.45996" class="tooltip" title="tooltip">Kurigram</tspan>
     </text>
     <text font-size="12" id="text634-0-0-61" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="377.76511" y="372.06808">
-      <tspan sodipodi:role="line" id="tspan5119" x="377.76511" y="372.06808">Rangpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5119" x="377.76511" y="372.06808" class="tooltip" title="tooltip">Rangpur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-09" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="466.54684" y="507.34579">
-      <tspan sodipodi:role="line" id="tspan5109" x="466.54684" y="507.34579">Gaibandha</tspan>
+      <tspan sodipodi:role="line" id="tspan5109" x="466.54684" y="507.34579" class="tooltip" title="tooltip">Gaibandha</tspan>
     </text>
     <text font-size="12" id="text634-0-0-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="330.12439" y="565.67297">
-      <tspan sodipodi:role="line" id="tspan5093" x="330.12439" y="565.67297">Joypurhat</tspan>
+      <tspan sodipodi:role="line" id="tspan5093" x="330.12439" y="565.67297" class="tooltip" title="tooltip">Joypurhat</tspan>
     </text>
     <text font-size="12" id="text634-0-0-69" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="434.91293" y="663.39325">
-      <tspan sodipodi:role="line" id="tspan5091" x="434.91293" y="663.39325">Bogura</tspan>
+      <tspan sodipodi:role="line" id="tspan5091" x="434.91293" y="663.39325" class="tooltip" title="tooltip">Bogura</tspan>
     </text>
     <text font-size="12" id="text634-0-0-7" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="334.81409" y="825.11029">
-      <tspan sodipodi:role="line" id="tspan5097" x="334.81409" y="825.11029">Natore</tspan>
+      <tspan sodipodi:role="line" id="tspan5097" x="334.81409" y="825.11029" class="tooltip" title="tooltip">Natore</tspan>
     </text>
     <text font-size="12" id="text634-0-0-57" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="473.60107" y="817.24854">
-      <tspan sodipodi:role="line" id="tspan5105" x="473.60107" y="817.24854">Sirajganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5105" x="473.60107" y="817.24854" class="tooltip" title="tooltip">Sirajganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-36" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="426.46518" y="923.31281">
-      <tspan sodipodi:role="line" id="tspan5101" x="426.46518" y="923.31281">Pabna</tspan>
+      <tspan sodipodi:role="line" id="tspan5101" x="426.46518" y="923.31281" class="tooltip" title="tooltip">Pabna</tspan>
     </text>
     <text font-size="12" id="text634-0-0-6234" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="890.30762" y="1202.4736">
-      <tspan sodipodi:role="line" id="tspan4995" x="890.30762" y="1202.4736">Chandpur</tspan>
+      <tspan sodipodi:role="line" id="tspan4995" x="890.30762" y="1202.4736" class="tooltip" title="tooltip">Chandpur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="955.78754" y="1110.0983">
-      <tspan sodipodi:role="line" id="tspan4999" x="955.78754" y="1110.0983">Comilla</tspan>
+      <tspan sodipodi:role="line" id="tspan4999" x="955.78754" y="1110.0983" class="tooltip" title="tooltip">Comilla</tspan>
     </text>
     <text font-size="12" id="text634-0-0-4" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="959.92419" y="993.27667">
-      <tspan sodipodi:role="line" id="tspan4993" x="959.92419" y="993.27667">Brahmanbaria</tspan>
+      <tspan sodipodi:role="line" id="tspan4993" x="959.92419" y="993.27667" class="tooltip" title="tooltip">Brahmanbaria</tspan>
     </text>
     <text font-size="12" id="text634-0-0-20" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1095.9884" y="819.21393">
-      <tspan sodipodi:role="line" id="tspan5081" x="1095.9884" y="819.21393">Habiganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5081" x="1095.9884" y="819.21393" class="tooltip" title="tooltip">Habiganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1223.8109" y="792.35303">
-      <tspan sodipodi:role="line" id="tspan5079" x="1223.8109" y="792.35303">Moulvibazar</tspan>
+      <tspan sodipodi:role="line" id="tspan5079" x="1223.8109" y="792.35303" class="tooltip" title="tooltip">Moulvibazar</tspan>
     </text>
     <text font-size="12" id="text634-0-0-8" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1276.8776" y="646.91089">
-      <tspan sodipodi:role="line" id="tspan5075" x="1276.8776" y="646.91089">Sylhet</tspan>
+      <tspan sodipodi:role="line" id="tspan5075" x="1276.8776" y="646.91089" class="tooltip" title="tooltip">Sylhet</tspan>
     </text>
     <text font-size="12" id="text634-0-0-626" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1072.2305" y="637.77344">
-      <tspan sodipodi:role="line" id="tspan5077" x="1072.2305" y="637.77344">Sunamganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5077" x="1072.2305" y="637.77344" class="tooltip" title="tooltip">Sunamganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-16" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="919.68542" y="667.2204">
-      <tspan sodipodi:role="line" id="tspan5087" x="919.68542" y="667.2204">Netrokona</tspan>
+      <tspan sodipodi:role="line" id="tspan5087" x="919.68542" y="667.2204" class="tooltip" title="tooltip">Netrokona</tspan>
     </text>
     <text font-size="12" id="text634-0-0-96" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="918.85742" y="820.52423">
-      <tspan sodipodi:role="line" id="tspan5021" x="918.85742" y="820.52423">Kishoreganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5021" x="918.85742" y="820.52423" class="tooltip" title="tooltip">Kishoreganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-5" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="733.86853" y="1122.6426">
-      <tspan sodipodi:role="line" id="tspan5027" x="733.86853" y="1122.6426">Munshiganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5027" x="733.86853" y="1122.6426" class="tooltip" title="tooltip">Munshiganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-3" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="741.78198" y="1043.5757">
       <tspan sodipodi:role="line" id="tspan5013" x="741.78198" y="1043.5757" class="tooltip" title="tooltip">Dhaka</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-4" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="611.74542" y="1014.1672">
-      <tspan sodipodi:role="line" id="tspan5025" x="611.74542" y="1014.1672">Manikganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5025" x="611.74542" y="1014.1672" class="tooltip" title="tooltip">Manikganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-56" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="824.28552" y="1029.4531">
-      <tspan sodipodi:role="line" id="tspan5029" x="824.28552" y="1029.4531">Narayanganj</tspan>
+      <tspan sodipodi:role="line" id="tspan5029" x="824.28552" y="1029.4531" class="tooltip" title="tooltip">Narayanganj</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-54" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="879.81201" y="956.14441">
-      <tspan sodipodi:role="line" id="tspan5031" x="879.81201" y="956.14441">Narsingdi</tspan>
+      <tspan sodipodi:role="line" id="tspan5031" x="879.81201" y="956.14441" class="tooltip" title="tooltip">Narsingdi</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333397px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="775.73737" y="919.07745">
-      <tspan sodipodi:role="line" id="tspan5017" x="775.73737" y="919.07745">Gazipur</tspan>
+      <tspan sodipodi:role="line" id="tspan5017" x="775.73737" y="919.07745" class="tooltip" title="tooltip">Gazipur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-9" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="630.53369" y="825.26312">
-      <tspan sodipodi:role="line" id="tspan5038">Tangail</tspan>
+      <tspan sodipodi:role="line" id="tspan5038" class="tooltip" title="tooltip">Tangail</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="574.31964" y="646.59821">
-      <tspan sodipodi:role="line" id="tspan5083" x="574.31964" y="646.59821">Jamalpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5083" x="574.31964" y="646.59821" class="tooltip" title="tooltip">Jamalpur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-7" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="660.89514" y="586.86761">
-      <tspan sodipodi:role="line" id="tspan5089">Sherpur</tspan>
+      <tspan sodipodi:role="line" id="tspan5089" class="tooltip" title="tooltip">Sherpur</tspan>
     </text>
     <text font-size="12" id="text634-0-0-28-00" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" x="752.1637" y="728.99945">
-      <tspan sodipodi:role="line" id="tspan5085" x="752.1637" y="728.99945">Mymensingh</tspan>
+      <tspan sodipodi:role="line" id="tspan5085" x="752.1637" y="728.99945" class="tooltip" title="tooltip">Mymensingh</tspan>
     </text>
-    <!-- <text font-size="12" id="text634-7-0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="468.19614" y="1499.5563">
-      <tspan sodipodi:role="line" id="tspan4963" x="468.19614" y="1499.5563">•</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="215.94876" y="766.79901">
-      <tspan sodipodi:role="line" id="tspan4963-4" x="215.94876" y="766.79901">•</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-7" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="406.52319" y="356.6239">
-      <tspan sodipodi:role="line" id="tspan4963-1" x="406.52319" y="356.6239">•</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-8" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1296.828" y="629.50122">
-      <tspan sodipodi:role="line" id="tspan4963-0" x="1296.828" y="629.50122">•</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-6" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="1268.9192" y="1514.2335">
-      <tspan sodipodi:role="line" id="tspan4963-14" x="1268.9192" y="1514.2335">•</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-89" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="767.94269" y="1343.4646">
-      <tspan sodipodi:role="line" id="tspan4963-7" x="767.94269" y="1343.4646">•</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-8-2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="757.46039" y="1024.8058">
-      <tspan sodipodi:role="line" id="tspan5033" x="757.46039" y="1024.8058">★</tspan>
-    </text>
-    <text font-size="12" id="text634-7-0-8-4" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.33333333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;" x="798.11395" y="713.54303">
-      <tspan sodipodi:role="line" id="tspan4963-0-6" x="798.11395" y="713.54303">•</tspan>
-    </text> -->
 </svg>
 
 </body>

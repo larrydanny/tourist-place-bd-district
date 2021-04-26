@@ -3,3 +3,71 @@
   height: 950px;
   overflow: visible !important;
 } */
+
+.class1 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 18.66666603px;
+  font-family: Tahoma;
+  -inkscape-font-specification: "Tahoma, Normal";
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-feature-settings: normal;
+  text-align: start;
+  writing-mode: lr-tb;
+  text-anchor: start;
+}
+
+.class2 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 17.33333397px;
+  font-family: Tahoma;
+  -inkscape-font-specification: "Tahoma, Normal";
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-feature-settings: normal;
+  text-align: start;
+  writing-mode: lr-tb;
+  text-anchor: start;
+}
+
+.class3 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 17.33333333px;
+  font-family: Tahoma;
+  -inkscape-font-specification: "Tahoma, Normal";
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-feature-settings: normal;
+  text-align: start;
+  writing-mode: lr;
+  text-anchor: start;
+}
+
+.class4 {
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 18.66666667px;
+  font-family: Tahoma;
+  -inkscape-font-specification: "Tahoma, Normal";
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-feature-settings: normal;
+  text-align: start;
+  writing-mode: lr;
+  text-anchor: start;
+}
